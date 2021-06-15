@@ -1,0 +1,27 @@
+{
+  "name": "lodashtreeshakewebpack",
+  "version": "1.0.0",
+  "description": "A webpack plugin that removed unused lodash packages",
+  "main": "test.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "lodash",
+    "webpack",
+    "treeshaking",
+    "tree-shaking"
+  ],
+  "author": "Marcello Bachechi",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "chalk": "^4.1.1",
+    "random-words": "^1.1.1",
+    "webpack-transform": "^0.0.1"
+  }
+}
