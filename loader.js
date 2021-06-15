@@ -48,6 +48,6 @@ module.exports = function (source) {
 	// 	return source;
 	// }
 
-	this.cacheable(false);
+	this.cacheable(true);
 	return source;
 };
